@@ -1,5 +1,5 @@
 /***
- * Sistema de Gerenciamento de Pedidos em um Restaurante
+ * Sistema de Gerenciamento de Pedidos de um Restaurante
  */
 
 #ifndef __GERENCIADOR_H__
